@@ -1,0 +1,24 @@
+h1 {
+  color: red;
+}
+
+/* what will happen? */
+h1 {
+  color: pink;
+}
+
+p {
+  color: blue;
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+ul li {
+  background-color: yellow;
+}
+
+
+
+ h2 {
+  font-size: 20px;
+}
